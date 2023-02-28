@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,I'm Kevin 👋
 
 - 🔭 I’m currently working on building strong user interface projects with React
 - 🌱 I’m currently learning Full-Stack Development(Rails)
