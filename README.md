@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
-- 💬 Ask me about **react and rails**
+- 💬 Ask me about **React and Rails**
 
 - 📫 How to reach me **kevinokotth04@gmail.com**
 
