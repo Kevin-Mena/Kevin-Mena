@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Kevin</h1>
 <h3 align="left">A passionate Full Stack Developer</h3>
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kevinokotth04@gmail.com**
 
-- ⚡ Fun fact **I play chess game at spare time.**
+- ⚡ Fun fact **Love nature photography💯✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
